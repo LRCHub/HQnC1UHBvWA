@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Shelter",
+  "base_artist": "Porter Robinson & Madeon",
+  "createdAt": "2026-02-23T05:10:09.814853Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shelter",
+      "artist": "The xx",
+      "has_synced": true,
+      "path": "select/01_Shelter_The_xx.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Be Your Shelter ( Just Like A Shelter )",
+      "artist": "The Housemartins",
+      "has_synced": false,
+      "path": "select/02_I'll_Be_Your_Shelter_(_Just_Like_A_Shelter_)_The_Housemartins.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Invisible Shelter",
+      "artist": "Sandra",
+      "has_synced": true,
+      "path": "select/03_Invisible_Shelter_Sandra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'll Be Your Shelter",
+      "artist": "The Housemartins",
+      "has_synced": true,
+      "path": "select/04_I'll_Be_Your_Shelter_The_Housemartins.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I’ll Be Your Shelter",
+      "artist": "The Housemartins",
+      "has_synced": true,
+      "path": "select/05_I’ll_Be_Your_Shelter_The_Housemartins.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shelter In The Rain",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/06_Shelter_In_The_Rain_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shelter On a Rainy Day",
+      "artist": "2 Unlimited",
+      "has_synced": false,
+      "path": "select/07_Shelter_On_a_Rainy_Day_2_Unlimited.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gimme Shelter",
+      "artist": "The Sisters of Mercy",
+      "has_synced": true,
+      "path": "select/08_Gimme_Shelter_The_Sisters_of_Mercy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shelter",
+      "artist": "Alcest",
+      "has_synced": true,
+      "path": "select/09_Shelter_Alcest.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Take Shelter",
+      "artist": "Active Child",
+      "has_synced": false,
+      "path": "select/10_Take_Shelter_Active_Child.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shelter",
+      "artist": "machineheart",
+      "has_synced": true,
+      "path": "select/11_Shelter_machineheart.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shelter from the Storm",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/12_Shelter_from_the_Storm_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shelter Me",
+      "artist": "Bob Mould",
+      "has_synced": false,
+      "path": "select/13_Shelter_Me_Bob_Mould.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Gimme Shelter",
+      "artist": "Grand Funk Railroad",
+      "has_synced": false,
+      "path": "select/14_Gimme_Shelter_Grand_Funk_Railroad.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shelter",
+      "artist": "Porter Robinson & Madeon",
+      "has_synced": false,
+      "path": "select/pl_01_Shelter_Porter_Robinson_&_Madeon.txt"
+    }
+  ]
+}
